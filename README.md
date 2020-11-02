@@ -12,9 +12,9 @@ Image classification using a Convolutional Neural Network (CNN) on ImageNet Anim
     - imutils
     - cleverhans (install tensorflow first)
     
-    Install the latest versions available for your venv or machine.
-    Installing cleverhans guide: https://github.com/tensorflow/cleverhans
-    Setting up Anaconda virtual environment: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+    Install the latest versions available for your venv or machine. <br>
+    Installing cleverhans guide: https://github.com/tensorflow/cleverhans <br>
+    Setting up Anaconda virtual environment: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html <br>
     
 2. Extract "datasets.zip" into the same directory.
 
